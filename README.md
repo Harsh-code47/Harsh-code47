@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">A passionate DATA SCIENTIST from INDIA</h3>
+<h1 align="center">Sup!👋, I'm Harsh Gupta</h1>
+<h3 align="center">A passionate DATA SCIENTIST and WEB DEVELOPER from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-code47&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-code47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-code47" alt="harsh-code47" /></a> </p>
 
-- 🔭 I’m currently working on [Library Portal](https://github.com/library-management-model)
+- 🔭 I’m currently working on [Library Portal - LIBRALINK](https://github.com/library-management-model)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C / C++ and BLOCKCHAIN (Ethereum)**
 
-- 💬 Ask me about **Python, Javascript, NodeJS, Prompt Engineering**
+- 💬 Ask me about **Python (DS), JavaScript, NodeJS, Prompt Engineering, AI training, UI/UX designing**
 
 - 📫 How to reach me **harsh1606gupta+github@gmail.com**
 
-- ⚡ Fun fact **I thought I had to make hardware by the word coding**
+- ⚡ Fun fact **: SPIDERs are the only WEB DEVs who love to find BUGS...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
