@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Library Portal - LIBRALINK](https://github.com/library-management-model)
 
-- 🌱 I’m currently learning **C / C++ and BLOCKCHAIN (Ethereum)**
+- 🌱 I’m currently learning **C and BLOCKCHAIN (Ethereum)**
 
 - 💬 Ask me about **Python (DS), JavaScript, NodeJS, Prompt Engineering, AI training, UI/UX designing**
 
