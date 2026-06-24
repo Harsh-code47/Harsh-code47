@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">A passionate DATA SCIENTIST and WEB DEVELOPER from INDIA</h3>
+<h3 align="center">A passionate DATA SCIENTIST and WEB DEVELOPER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-code47&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-code47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-code47" alt="harsh-code47" /></a> </p>
 
-- 🌱 I’m currently learning **C lang, AI Automation and BLOCKCHAIN (Ethereum)**
+- 🌱 I’m currently learning **Iot embeded systems, AI Automation and BLOCKCHAIN (Ethereum)**
 
-- 💬 Ask me about **Python (DS), Prompt Engineering, Figma, UI/UX Designing, AI training, JavaScript, NodeJS**
+- 💬 Ask me about **Python (DS), OOPs, Java, C lang, Prompt Engineering, Figma (UI/UX Designing), AI training, JavaScript, NodeJS**
 
-- 📫 How to reach me **harsh1606gupta+github@gmail.com**
+- 📫 How to reach me **harsh1606gupta@gmail.com**
 
 - ⚡ Fun fact **SPIDERs are the only WEB DEVs who love to find BUGS..**
 
