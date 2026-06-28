@@ -1,5 +1,5 @@
 #  About Me:
-->  I’m currently learning: IoT embedded systems, AI Automation and BLOCKCHAIN (Ethereum)<br>->  Ask me about: Python (DS), OOPs, Java, C, Prompt Engineering, Figma (UI/UX Designing), AI training, JavaScript, NodeJS<br>->  How to reach me: harsh1606gupta@gmail.com<br>->  Fun fact: "SPIDERs are the only WEB DEVs who love to find BUGS..."
+-->  I’m currently learning: IoT embedded systems, AI Automation and BLOCKCHAIN (Ethereum)<br>->  Ask me about: Python (DS), OOPs, Java, C, Prompt Engineering, Figma (UI/UX Designing), AI training, JavaScript, NodeJS<br>->  How to reach me: harsh1606gupta@gmail.com<br>->  Fun fact: "SPIDERs are the only WEB DEVs who love to find BUGS..."
 
 
 ## 🌐 Socials:
